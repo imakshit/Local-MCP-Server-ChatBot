@@ -57,8 +57,24 @@ Newton's Third Law of Motion, also known as the Law of Action and Reaction, stat
 ```
 ---
 
+## HTML UI
+
+![screenshot1](https://github.com/imakshit/Local-MCP-Server-ChatBot/blob/main/screenshots/screenshot1.png)
+
+---
+
+## Further Ideas to improve the project
+
+- Add support for more models
+- Create a better UI
+- Innovate and modify the code as per the specific use case
+
+---
+
 ## 👋 Acknowledgments
 - Ollama — for local model runtime
 - Meta — for LLaMA3
 - FastAPI — for easy backend
 - Tailwind CSS — for clean styling
+
+---
